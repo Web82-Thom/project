@@ -1,6 +1,7 @@
 # project
 
-A new Flutter project.
+Create connection Firebase to my App.
+Create StremBuilder signin, register, logout.
 
 ## Getting Started
 
